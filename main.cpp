@@ -63,7 +63,7 @@ float   dataRoom[100][7] = {{101, 1, 2500, 0, 0, 554, 715},
 
 // data relationship
 string dataRelation[100][2] = {{"103","6306021621142"},
-							   {"105","6306021621139"}};
+			       {"105","6306021621139"}};
 // string dataRelation[100][2];
 
 
