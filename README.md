@@ -1,4 +1,5 @@
 # Cpp_dormitory_system_cmd
+## This project is part of a "Computer Programming" course.
 
 standard 5 data for test.
 
